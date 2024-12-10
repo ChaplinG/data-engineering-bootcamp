@@ -4,6 +4,7 @@ Link for the course: https://www.udemy.com/course/bootcamp-engenharia-de-dados/
 In this bootcamp the goal is to build a Data Warehouse for a fictional car manufacturer. Through practical activities we use tools (such as SQL, AirFlow and others) to extract, transform, and load (ETL) data, culminating in a dashboard for data visualization. Currently I completed the sections:
 1. Intro
 2. Database Exploration
+3. Airflow setup on AWS with EC2 and Ubuntu
 
 
 Tools and Technologies
