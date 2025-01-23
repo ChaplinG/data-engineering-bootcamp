@@ -5,9 +5,12 @@ In this bootcamp the goal is to build a Data Warehouse for a fictional car manuf
 1. Intro
 2. Database Exploration
 3. Airflow setup on AWS with EC2 and Ubuntu
+4. Snowflake Structure
 
 
 Tools and Technologies
 - SQL and python
 - PostgreSQL, Airflow, Snowflake, dbt, Looker Studio
+- Airflow Incremental Load
+- ELT
 
