@@ -6,6 +6,7 @@ In this bootcamp the goal is to build a Data Warehouse for a fictional car manuf
 2. Database Exploration
 3. Airflow setup on AWS with EC2 and Ubuntu
 4. Snowflake Structure
+5. Creating the DAG and loading data into the Stage area
 
 
 Tools and Technologies
